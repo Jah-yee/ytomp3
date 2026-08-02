@@ -33,7 +33,7 @@ def mp4downloader(fname,vid_id,chatid):
 
         os.system("rm *.mp4")
 
-        return "sucesfully converted!!"
+        return "successfully converted!!"
 
 
     except exception as e:

@@ -34,7 +34,7 @@ def mp3downloader(fname,vid_id,,chatid):
 
         os.system("rm file.mp3")
 
-        return "sucesfully converted!!"
+        return "successfully converted!!"
 
 
     except exception as e:
